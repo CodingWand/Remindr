@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456501816149",
+    "firebase_url": "https://ebbinghaus-app-e11c1.firebaseio.com",
+    "project_id": "ebbinghaus-app-e11c1",
+    "storage_bucket": "ebbinghaus-app-e11c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456501816149:android:7ec8c3ab5f4290842c9ddc",
+        "android_client_info": {
+          "package_name": "com.assanediouf.ebb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456501816149-7gmie4c4j2vtvp53g4pdfe6isph7vaja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJecQ8nieLoTSrpgDZed8ofI4l0iNa3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456501816149-7gmie4c4j2vtvp53g4pdfe6isph7vaja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
